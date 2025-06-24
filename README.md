@@ -15,3 +15,4 @@ You can do formatting in markdown documents even though it's plain text. For exa
     3. Push the big green button.
 4. That's create a what's called a _Pull Request_, which is just a name for "proposed a change".
 5. That takes you to the Pull Request page and you can write a note. "I'm making this change to understand how editing on GitHub works. Can you review my change, and if you agree with the edits I made, merge them in to the master document?"
+"Testing editing"
